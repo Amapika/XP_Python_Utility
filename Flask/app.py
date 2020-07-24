@@ -35,6 +35,8 @@ def update(id):
         page ='updatehome'
         return render_template('home.html',page=page,user1s=user1s,user=user)
 
+# The below route is working using POSTMAN. 
+#Just need to uncomment it and sent the request using postman to this route 
 # @app.route('/user/<int:id>',methods=["GET","POST","PUT","DELETE"])
 # def update(id):
 #     user = User1.query.get_or_404(id)
