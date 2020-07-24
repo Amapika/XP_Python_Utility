@@ -26,4 +26,4 @@ Simple Python Application For CRUD operations through SQLite.
 ### Requirement
 
 ### DEMO 
-https://github.com/Amapika/FlaskPOC/blob/master/pocflask/AmanFlask.png
+https://github.com/Amapika/XP_Python_Utility/blob/master/Flask/AmanFlask.png
